@@ -1,0 +1,5 @@
+Rencana baru
+
+- belajar javascript
+ *ES6
+- belajar php
