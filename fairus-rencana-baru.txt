@@ -2,4 +2,7 @@ Rencana baru
 
 - belajar javascript
  *ES6
+ *Vue/React
+ *Node.js
 - belajar php
+ *Laravel
